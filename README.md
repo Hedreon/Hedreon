@@ -1,4 +1,4 @@
-# Hello there, I'm Hedreon! 👋
+# Hello There, I'm Hedreon! 👋
 [![Website](https://img.shields.io/website?label=hedreon.github.io&style=for-the-badge&url=https%3A%2F%2Fhedreon.github.io)](https://hedreon.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HydroNews_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHedreon&screen_name=HydroNews_)
 
@@ -10,7 +10,7 @@
 
 <br />
 
-## I'm a Developer & Music Producer!
+## I'm a Developer & a Music Producer
 - 👨‍💻 I code C# & Lua but sadly, I haven't open-sourced anything that relates to C# nor Lua... 😥 YET!
 - 🌱 I’m still learning everything.
 - 📺 I have an [active playlist][buildingPlaylist] about building open-source software & games.
