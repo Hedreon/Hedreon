@@ -28,16 +28,16 @@
 
 <br />
 
-### 🎧 I'm Currently Listening To...
-<img src="https://spotify-playing.hedreon.vercel.app/api/spotify" width="350"/>
-
-<br />
-
 ### ✉ Connect With Me:
 [<img align="left" alt="Hedreon's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Hedreon's Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Hedreon's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hedreon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+
+### 🎧 I'm Currently Listening To...
+<img src="https://spotify-playing.hedreon.vercel.app/api/spotify" width="350"/>
 
 [website]: https://hedreon.github.io
 [twitter]: https://twitter.com/HydroNews_
