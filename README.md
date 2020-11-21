@@ -9,6 +9,7 @@
 - 🌱 I’m still learning everything.
 - 📺 I have an [active playlist][buildingPlaylist] about building open-source software & games.
 - 🎹 I make Synthwave & other genres but none of them are public 😥 because I'm still learning!
+- 😍 I'm a big fan of Future House, Synthwave, Mesto, Oliver Heldens & TommyInnit.
 
 <br />
 
@@ -25,8 +26,6 @@
 [<img align="left" alt="Hedreon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
-
----
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
