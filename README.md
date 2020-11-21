@@ -37,15 +37,13 @@
 
 ### ✉ Connect With Me:
 [<img align="left" alt="Hedreon's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hedreon's Discord Server" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
+[<img align="left" alt="Hedreon's Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Hedreon's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hedreon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
 
 [website]: https://hedreon.github.io
 [twitter]: https://twitter.com/HydroNews_
 [youtube]: https://youtube.com/UCXVJV7t5GQxa-Qygn2UaXhQ
 [buildingPlaylist]: https://www.youtube.com/playlist?list=PLDjh49V0y-sWmj8OT4loaWKakAHuY3RZo
 [pinewood]: https://www.roblox.com/games/17541193/Pinewood-Computer-Core
-[discord]: https://www.example.com
+[discord]: https://discord.gg/VPSU4gy2GR
