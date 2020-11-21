@@ -4,9 +4,7 @@
 
 <br />
 
-<center>
-  <img src="https://github-stats.hedreon.vercel.app/api?username=Hedreon&show_icons=true&hide_border=true" alt="Hedreon's GitHub Stats" align="middle" />
-</center>
+<img src="https://github-stats.hedreon.vercel.app/api?username=Hedreon&show_icons=true&hide_border=true" alt="Hedreon's GitHub Stats" />
 
 <br />
 
