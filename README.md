@@ -36,9 +36,15 @@
 - [British Keys](https://www.youtube.com/watch?v=TjG5ASgic5I)
 - [That's why you shouldn't download Synapse X Cracks](https://www.youtube.com/watch?v=m5PXmULSr2U)
 <!-- YOUTUBE:END -->
----
 
-More coming soon!
+<br />
+
+<details>
+  <summary>⚡ GitHub Stats</summary>
+
+  <img align="left" alt="Hedreons's GitHub Stats" src="https://github-stats.hedreon.vercel.app/api?username=Hedreon&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://hedreon.github.io
 [twitter]: https://twitter.com/HydroNews_
