@@ -31,7 +31,6 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
 ---
 
 More coming soon!
