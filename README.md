@@ -37,7 +37,7 @@
 <br />
 
 ### 🎧 I'm Currently Listening To...
-<img src="https://spotify-playing.hedreon.vercel.app/api/spotify" width="350"/>
+*Replacing with a different spotify playing soon because the current spotify playing is broken...*
 
 [website]: https://hedreon.github.io
 [twitter]: https://twitter.com/HydroNews_
