@@ -19,7 +19,6 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [REMAKING one of my old songs](https://www.youtube.com/watch?v=vP8QFXD1yE4)
 - [How to build & run "NonEuclidean" by CodeParade](https://www.youtube.com/watch?v=NfMBWPmwlrw)
 - [How to Build SCP - Containment Breach From Source](https://www.youtube.com/watch?v=MDWds_mHg68)
 - [That's why you shouldn't download Synapse X Cracks](https://www.youtube.com/watch?v=m5PXmULSr2U)
