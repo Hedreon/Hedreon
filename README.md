@@ -8,7 +8,7 @@
 
 <br />
 
-## I'm a Developer & a Music Producer
+## I'm a Developer & Music Producer
 - 👨‍💻 I code C# & Lua but sadly, I haven't open-sourced anything that relates to C# nor Lua... 😥 YET!
 - 🌱 I’m still learning everything.
 - 📺 I have an [active playlist][buildingPlaylist] about building open-source software & games.
@@ -31,11 +31,6 @@
 [<img align="left" alt="Hedreon's Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Hedreon's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hedreon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-### 🎧 I'm Currently Listening To...
-*Replacing with a different spotify playing soon because the current spotify playing is broken...*
 
 [website]: https://hedreon.github.io
 [twitter]: https://twitter.com/HydroNews_
