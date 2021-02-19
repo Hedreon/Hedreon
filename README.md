@@ -13,7 +13,7 @@
 - 🌱 I’m still learning everything.
 - 📺 I have an [active playlist][buildingPlaylist] about how to build open-source software & games but I rarely ever upload because I don't take YouTube seriously.
 - 🎹 I make Synthwave & other genres but none of them are public 😥 because I'm still learning!
-- 😍 I'm a big fan of Oliver Heldens, 
+- 😍 I'm a big fan of Oliver Heldens, etc.
 <br />
 
 ### 📺 Latest YouTube Videos
