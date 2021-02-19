@@ -9,12 +9,11 @@
 <br />
 
 ## I'm a Developer & Music Producer
-- 👨‍💻 I code C# & Lua but sadly, I haven't open-sourced anything that relates to C# nor Lua... 😥 YET!
+- 👨‍💻 I code C# & Lua
 - 🌱 I’m still learning everything.
-- 📺 I have an [active playlist][buildingPlaylist] about building open-source software & games.
+- 📺 I have an [active playlist][buildingPlaylist] about how to build open-source software & games but I rarely ever upload because I don't take YouTube seriously.
 - 🎹 I make Synthwave & other genres but none of them are public 😥 because I'm still learning!
-- 😍 I'm a big fan of Oliver Heldens, TommyInnit, Synthwave, & Future House.
-
+- 😍 I'm a big fan of Oliver Heldens, 
 <br />
 
 ### 📺 Latest YouTube Videos
@@ -28,7 +27,6 @@
 
 ### ✉ Connect With Me:
 [<img align="left" alt="Hedreon's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hedreon's Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Hedreon's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hedreon's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -37,4 +35,3 @@
 [youtube]: https://youtube.com/UCXVJV7t5GQxa-Qygn2UaXhQ
 [buildingPlaylist]: https://www.youtube.com/playlist?list=PLDjh49V0y-sWmj8OT4loaWKakAHuY3RZo
 [pinewood]: https://www.roblox.com/games/17541193/Pinewood-Computer-Core
-[discord]: https://discord.gg/VPSU4gy2GR
