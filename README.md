@@ -18,6 +18,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [My Jailbreak Gameplay](https://www.youtube.com/watch?v=Lj247JuuxIU)
 - [Channel Updates](https://www.youtube.com/watch?v=SjRJ_EQ80Ro)
 - [How to build & run "NonEuclidean" by CodeParade [READ DESC FOR DOWNLOADS & INFO]](https://www.youtube.com/watch?v=NfMBWPmwlrw)
 - [How to Build SCP - Containment Breach From Source](https://www.youtube.com/watch?v=MDWds_mHg68)
